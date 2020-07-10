@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="gke-dev-279012"
